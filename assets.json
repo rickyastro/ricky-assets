@@ -1,0 +1,32 @@
+{
+  "hub-capacity-issue-log": {
+    "name": "Hub Capacity Issue Log",
+    "avatar_file": "avatars/hub-capacity-issue-log.png",
+    "avatar_url": "https://raw.githubusercontent.com/rickyastro/ricky-assets/main/avatars/hub-capacity-issue-log.png",
+    "webhook_env": "WEBHOOK_HUB_CAPACITY_ISSUE_LOG"
+  },
+  "rca-log-book-submission": {
+    "name": "RCA Log Book Submission",
+    "avatar_file": "avatars/rca-log-book-submission.png",
+    "avatar_url": "https://raw.githubusercontent.com/rickyastro/ricky-assets/main/avatars/rca-log-book-submission.png",
+    "webhook_env": "WEBHOOK_RCA_LOG_BOOK_SUBMISSION"
+  },
+  "piket-data-huddle-senin": {
+    "name": "Piket Data Huddle Senin",
+    "avatar_file": "avatars/piket-data-huddle-senin.png",
+    "avatar_url": "https://raw.githubusercontent.com/rickyastro/ricky-assets/main/avatars/piket-data-huddle-senin.png",
+    "webhook_env": "WEBHOOK_PIKET_DATA_HUDDLE_SENIN"
+  },
+  "piket-dp-huddle-senin": {
+    "name": "Piket DP Huddle Senin",
+    "avatar_file": "avatars/piket-dp-huddle-senin.png",
+    "avatar_url": "https://raw.githubusercontent.com/rickyastro/ricky-assets/main/avatars/piket-dp-huddle-senin.png",
+    "webhook_env": "WEBHOOK_PIKET_DP_HUDDLE_SENIN"
+  },
+  "hub-capacity-ticket-submission": {
+    "name": "Hub Capacity Ticket Submission",
+    "avatar_file": "avatars/hub-capacity-ticket-submission.png",
+    "avatar_url": "https://raw.githubusercontent.com/rickyastro/ricky-assets/main/avatars/hub-capacity-ticket-submission.png",
+    "webhook_env": "WEBHOOK_HUB_CAPACITY_TICKET_SUBMISSION"
+  }
+}
