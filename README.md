@@ -22,6 +22,7 @@ ricky-assets/
 | `piket-dp-huddle-senin` | Piket DP Huddle Senin | Patrick | [avatars/piket-dp-huddle-senin.png](avatars/piket-dp-huddle-senin.png) |
 | `hub-capacity-ticket-submission` | Hub Capacity Ticket Submission | Mr. Krabs | [avatars/hub-capacity-ticket-submission.png](avatars/hub-capacity-ticket-submission.png) |
 | `data-sc` | Data SC (bugs, deployments, weekly recap) | SpongeBob | [avatars/data-sc.png](avatars/data-sc.png) |
+| `github-relay-ricky` | GitHub Relay Ricky | Karen | [avatars/github-relay-ricky.png](avatars/github-relay-ricky.png) |
 
 Avatar URLs follow this pattern (the repo must be public for them to load):
 

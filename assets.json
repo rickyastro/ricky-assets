@@ -34,5 +34,11 @@
     "avatar_file": "avatars/data-sc.png",
     "avatar_url": "https://raw.githubusercontent.com/rickyastro/ricky-assets/main/avatars/data-sc.png",
     "webhook_env": "WEBHOOK_DATA_SC"
+  },
+  "github-relay-ricky": {
+    "name": "GitHub Relay Ricky",
+    "avatar_file": "avatars/github-relay-ricky.png",
+    "avatar_url": "https://raw.githubusercontent.com/rickyastro/ricky-assets/main/avatars/github-relay-ricky.png",
+    "webhook_env": "WEBHOOK_GITHUB_RELAY_RICKY"
   }
 }
