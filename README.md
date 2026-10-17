@@ -14,13 +14,14 @@ ricky-assets/
 
 ## Webhooks
 
-| Key | Name | Avatar |
-|---|---|---|
-| `hub-capacity-issue-log` | Hub Capacity Issue Log | [avatars/hub-capacity-issue-log.png](avatars/hub-capacity-issue-log.png) |
-| `rca-log-book-submission` | RCA Log Book Submission | [avatars/rca-log-book-submission.png](avatars/rca-log-book-submission.png) |
-| `piket-data-huddle-senin` | Piket Data Huddle Senin | [avatars/piket-data-huddle-senin.png](avatars/piket-data-huddle-senin.png) |
-| `piket-dp-huddle-senin` | Piket DP Huddle Senin | [avatars/piket-dp-huddle-senin.png](avatars/piket-dp-huddle-senin.png) |
-| `hub-capacity-ticket-submission` | Hub Capacity Ticket Submission | [avatars/hub-capacity-ticket-submission.png](avatars/hub-capacity-ticket-submission.png) |
+| Key | Name | Character | Avatar |
+|---|---|---|---|
+| `hub-capacity-issue-log` | Hub Capacity Issue Log | Squidward | [avatars/hub-capacity-issue-log.png](avatars/hub-capacity-issue-log.png) |
+| `rca-log-book-submission` | RCA Log Book Submission | Plankton | [avatars/rca-log-book-submission.png](avatars/rca-log-book-submission.png) |
+| `piket-data-huddle-senin` | Piket Data Huddle Senin | Sandy | [avatars/piket-data-huddle-senin.png](avatars/piket-data-huddle-senin.png) |
+| `piket-dp-huddle-senin` | Piket DP Huddle Senin | Patrick | [avatars/piket-dp-huddle-senin.png](avatars/piket-dp-huddle-senin.png) |
+| `hub-capacity-ticket-submission` | Hub Capacity Ticket Submission | Mr. Krabs | [avatars/hub-capacity-ticket-submission.png](avatars/hub-capacity-ticket-submission.png) |
+| `data-sc` | Data SC (bugs, deployments, weekly recap) | SpongeBob | [avatars/data-sc.png](avatars/data-sc.png) |
 
 Avatar URLs follow this pattern (the repo must be public for them to load):
 
@@ -30,7 +31,7 @@ https://raw.githubusercontent.com/rickyastro/ricky-assets/main/avatars/<key>.png
 
 ## Adding a webhook
 
-1. Add the image to `avatars/<key>.png` (square, ~256×256).
+1. Add the image to `avatars/<key>.png` (square, ~256×256). PNG or JPG; avoid SVG/WebP. If you use JPG, update `avatar_file`/`avatar_url` in `assets.json` to match.
 2. Add an entry to `assets.json`.
 3. Add `WEBHOOK_<KEY>=` to `.env.example`.
 4. Add a row to the table above.
