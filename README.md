@@ -23,6 +23,7 @@ ricky-assets/
 | `hub-capacity-ticket-submission` | Hub Capacity Ticket Submission | Mr. Krabs | [avatars/hub-capacity-ticket-submission.png](avatars/hub-capacity-ticket-submission.png) |
 | `data-sc` | Data SC (bugs, deployments, weekly recap) | SpongeBob | [avatars/data-sc.png](avatars/data-sc.png) |
 | `github-relay-ricky` | GitHub Relay Ricky | Karen | [avatars/github-relay-ricky.png](avatars/github-relay-ricky.png) |
+| `scms-homebrew-cafe-data` | SCMS Homebrew Cafe Data (Superset cookie expired, refresh needed) | Gary | [avatars/scms-homebrew-cafe-data.png](avatars/scms-homebrew-cafe-data.png) |
 
 Avatar URLs follow this pattern (the repo must be public for them to load):
 

@@ -40,5 +40,11 @@
     "avatar_file": "avatars/github-relay-ricky.png",
     "avatar_url": "https://raw.githubusercontent.com/rickyastro/ricky-assets/main/avatars/github-relay-ricky.png",
     "webhook_env": "WEBHOOK_GITHUB_RELAY_RICKY"
+  },
+  "scms-homebrew-cafe-data": {
+    "name": "SCMS Homebrew Cafe Data",
+    "avatar_file": "avatars/scms-homebrew-cafe-data.png",
+    "avatar_url": "https://raw.githubusercontent.com/rickyastro/ricky-assets/main/avatars/scms-homebrew-cafe-data.png",
+    "webhook_env": "WEBHOOK_SCMS_HOMEBREW_CAFE_DATA"
   }
 }
